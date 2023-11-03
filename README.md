@@ -1,5 +1,5 @@
 # Splines---Numerical-Analysis
-Implementation of Splines to solve a Numerical Analysis Problem
+Implementation of Splines to solve a Numerical Analysis Problem. Solved by Elena de Toledo, Blanca González and Rodrigo de Lera.
 
 Given a spreadsheet containing data about 6 different variables (income, life expectancy, babies per women, C02 emissions per person, child mortality and population) for many different countries between the years 1950 - 2019 (for some countries some of these years had no available data). 
 
@@ -13,3 +13,4 @@ Output:
   - Table with measured errors per country per decade, labelled
   - Paragraph with an analysis on causes of larger errors
   - Plot for each country including in same picture real data and spline functions constructed
+    
