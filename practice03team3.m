@@ -1,7 +1,4 @@
-%PRACTICE 3. Team 3
-%Rodrigo de Lera 100452323
-%Blanca González 100454722
-%Elena de Toledo 100452170
+%PRACTICE 3
 
 
 clear;
